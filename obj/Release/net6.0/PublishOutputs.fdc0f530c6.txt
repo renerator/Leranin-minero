@@ -1,0 +1,7 @@
+C:\Users\reneq\source\repos\leraning\leraning\obj\Release\net6.0\PubTmp\Out\leraning.exe
+C:\Users\reneq\source\repos\leraning\leraning\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\reneq\source\repos\leraning\leraning\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\reneq\source\repos\leraning\leraning\obj\Release\net6.0\PubTmp\Out\leraning.dll
+C:\Users\reneq\source\repos\leraning\leraning\obj\Release\net6.0\PubTmp\Out\leraning.deps.json
+C:\Users\reneq\source\repos\leraning\leraning\obj\Release\net6.0\PubTmp\Out\leraning.runtimeconfig.json
+C:\Users\reneq\source\repos\leraning\leraning\obj\Release\net6.0\PubTmp\Out\leraning.pdb

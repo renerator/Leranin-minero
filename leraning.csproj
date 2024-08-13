@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\css\img\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\img\1.png" />
+    <None Include="wwwroot\css\img\2.png" />
+    <None Include="wwwroot\css\img\3.png" />
+    <None Include="wwwroot\css\img\4.png" />
+    <None Include="wwwroot\css\img\5.png" />
+  </ItemGroup>
+
+</Project>
